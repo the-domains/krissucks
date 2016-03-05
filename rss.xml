@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KRISSUCKS]]></title>
         <description><![CDATA[KRISSUCKS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/krissucks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 14:48:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 14:51:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krissucks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>as they waded with weighted spirits</p>]]></description>
-            <link>undefinedf5efaac3-9761-483d-8350-52ea7913f47f/index.html</link>
+            <link>https://thegrid.ai/krissucks/f5efaac3-9761-483d-8350-52ea7913f47f/index.html</link>
             <guid isPermaLink="false">f5efaac3-9761-483d-8350-52ea7913f47f</guid>
-            <pubDate>Sat, 05 Mar 2016 14:47:42 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 14:51:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
