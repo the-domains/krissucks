@@ -1,0 +1,28 @@
+name: KRISSUCKS
+favicon: null
+layout_spectrum: 0.7880023922771215
+typography_spectrum: 0.22465607104822993
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.34329985990189016
+  lightness: 0.04167833621613681
+  saturation: 0.5636637995485216
+  rhythmicContrast: 0.7647283391561359
+purpose: []
